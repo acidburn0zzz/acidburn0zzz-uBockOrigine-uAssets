@@ -33,5 +33,6 @@ jobs:
             git commit -m "Update Easylist assets"
             git pull --rebase origin master
             git push origin master
+            export $ENV = "'$ENV'\ && 'FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true'\ "
             gh workflow run main.yml
           fi
