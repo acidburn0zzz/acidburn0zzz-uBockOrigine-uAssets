@@ -2,7 +2,7 @@ name: Update Easylist assets (hourly)
 
 on:
   schedule:
-    - cron: "47 */3 * * *"
+    - cron: "46 */4 * * *"
   workflow_dispatch:
 
 permissions:
@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   publish:
-    if: github.repository_owner == 'uBlockOrigin'
+    if: github.repository_owner == 'acidburn0zzz'
     permissions:
       actions: write
       contents: write  # for Git to git push
