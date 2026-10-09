@@ -7075,6 +7075,7 @@ omni.soundestlink.com$image
 ||catalogcake.com^
 ||catlanguage.net^
 ||catschickens.com^
+||catsthumb.com^
 ||cattlecommittee.com^
 ||cauldronfest.com^
 ||causecherry.com^
@@ -7130,6 +7131,7 @@ omni.soundestlink.com$image
 ||claycandle.com^
 ||cleanhaircut.com^
 ||clearclips.com^
+||clickersdigest.com^
 ||climbingright.com^
 ||cloisteredcurve.com^
 ||clotheswringer.com^
@@ -55096,6 +55098,7 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 ! Japanese
 ||abema-tv.com/v1/stats/
 ||ad-bls-tracking.lemino.docomo.ne.jp^
+||ad-manager.matsukiyococokara-online.com^
 ||ad-platform.jmty.jp^
 ||altema-log.com^
 ||amazonaws.com/ai-img/aia.js
