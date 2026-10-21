@@ -9126,6 +9126,7 @@ omni.soundestlink.com$image
 ||toysbasics.com^
 ||toytakeover.com^
 ||tracecontent.com^
+||tradedeli.com^
 ||traderbyte.com^
 ||tradetooth.com^
 ||trainingreality.com^
