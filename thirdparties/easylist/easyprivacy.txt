@@ -7090,6 +7090,7 @@ omni.soundestlink.com$image
 ||cautiouscredit.com^
 ||cavecurtain.com^
 ||cdnral.com^
+||cedarkits.com^
 ||celestialeuphony.com^
 ||celestialquasar.com^
 ||celestialspectra.com^
@@ -7952,6 +7953,7 @@ omni.soundestlink.com$image
 ||landsuites.com^
 ||landwestern.com^
 ||largebrass.com^
+||largetony.com^
 ||lastanonymous.com^
 ||lasttaco.com^
 ||laughcloth.com^
@@ -9176,11 +9178,13 @@ omni.soundestlink.com$image
 ||unarmedindustry.com^
 ||unbecominghall.com^
 ||unbecominglamp.com^
+||uncommonalias.com^
 ||uncoveredexpert.com^
 ||understoodocean.com^
 ||unequalbrake.com^
 ||unequaltrail.com^
 ||unicornprices.com^
+||unifybots.com^
 ||uninterestedquarter.com^
 ||unitedscans.com^
 ||unknowncrate.com^
@@ -16599,6 +16603,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||nzpages.co.nz/modules/common/track.js
 ||observe.metarouter.io^
 ||ocular.hotukdeals.com^
+||ocular.pepperdeals.com^
 ||odysee.com/reports/
 ||ohm-dot-hackster-io.appspot.com^
 ||oklink.com/jsstat/
@@ -55755,6 +55760,7 @@ search.rakuten.co.jp##+js(aeld, mouseup, sendClickEvent)
 ||mega.promodescuentos.com^
 ||mercadolibre.com/tracks^
 ||mundodesconocido.com/tracker/
+||ocular.chollometro.com^
 ||ocular.promodescuentos.com^
 ||pccomponentes.*/api/users/tracking/
 ||pixel.europapress.net^
@@ -55793,6 +55799,7 @@ search.rakuten.co.jp##+js(aeld, mouseup, sendClickEvent)
 ||fotbollskanalen.se^$ping
 ||fusion.bonniertidskrifter.se^
 ||gx.idg.se^
+||ocular.pepperdeals.se^
 ||prisjakt.nu/js.php?p=trafikfonden
 ||stat.nyheter24.se^
 ! Thai
