@@ -16354,6 +16354,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||lc-event.pixiv.net^
 ||leadconnectorhq.com/stats/event
 ||lego.com/api/dl-event-ingest
+||lego.com/api/uec/v1/events
 ||lendingtree.com/analytics/
 ||lendingtree.com/pixel/
 ||lenovo.com/gemets/
