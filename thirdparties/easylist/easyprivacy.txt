@@ -7749,6 +7749,7 @@ omni.soundestlink.com$image
 ||gripcorn.com^
 ||grocerycrew.com^
 ||grocerydog.com^
+||groglog.com^
 ||groovespacing.com^
 ||groovyornament.com^
 ||grouchybrothers.com^
@@ -12478,6 +12479,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||paramount.tech/lookup/
 ||parkwhiz.com/events/
 ||parsely.com/keys/$script,third-party
+||parsely.com/plogger/
 ||partner.awscconsumerinfo.autotrader.com/accdab/beacon/
 ||partners.etoro.com^$script
 ||patreon.com/api/tracking
