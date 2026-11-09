@@ -2984,6 +2984,7 @@
 ://collect.*/pageview
 ://collector.*/event
 ://data.*/v1/interact?
+://data.*=L2cvY29sbGVjd
 ://datacollector.*/event
 ://dwh-prod.*/de.npg/
 ://elqtrk.
@@ -7941,6 +7942,7 @@ omni.soundestlink.com$image
 ||incomehippo.com^
 ||incompetentjoke.com^
 ||inconclusiveaction.com^
+||indieskills.com^
 ||indscout.com^
 ||infamousstream.com^
 ||infinityhedge.com^
@@ -8601,6 +8603,7 @@ omni.soundestlink.com$image
 ||rangecake.com^
 ||rangeplayground.com^
 ||rangergustav.com^
+||rankaddict.com^
 ||rarelyfans.com^
 ||raresummer.com^
 ||razzweb.com^
@@ -8695,6 +8698,7 @@ omni.soundestlink.com$image
 ||rockagainst.com^
 ||rockcarving.com^
 ||rocketmonitor.com^
+||rockspreading.com^
 ||rockstarwriter.com^
 ||roguephilosopher.com^
 ||rollconnection.com^
@@ -9505,6 +9509,7 @@ omni.soundestlink.com$image
 ||bikemag.com/.api/admiral
 ||bringmethenews.com/.api/admiral
 ||dengarden.com/.api/admiral
+||fashionista.com/.api/admiral
 ||gamedaily.com/.api/admiral
 ||mensjournal.com/.api/admiral
 ||parade.com/.api/admiral
@@ -13007,6 +13012,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||showstopped.com/owa/modules/base/dist/owa.tracker.js
 ||shrinetheme.com/api/analytics/
 ||shrtfly.vip/js/tag.js
+||sierra.chat/-/api/events
 ||sinajs.cn/open/analytics/
 ||sitebooster.com/sb/wix/p?$third-party
 ||sitecorecloud.io/v1/events/
@@ -56054,6 +56060,7 @@ search.rakuten.co.jp##+js(aeld, mouseup, sendClickEvent)
 ||log.ttbc-hcm.gov.vn^
 ||logsbin.dantri.com.vn^
 ||pixel.coccoc.com^
+||rivo.vin/api/*/view
 ||rivo.vin/rivo-stealer/
 ||tka.tiki.vn/pixel/
 ||track-srv.vietnamnet.vn^
