@@ -8709,6 +8709,7 @@ omni.soundestlink.com$image
 ||rockagainst.com^
 ||rockcarving.com^
 ||rocketmonitor.com^
+||rocketserver.net^
 ||rockspreading.com^
 ||rockstarwriter.com^
 ||roguephilosopher.com^
@@ -9179,6 +9180,7 @@ omni.soundestlink.com$image
 ||tastesnake.com^
 ||tawdryson.com^
 ||taxisubsea.com^
+||taxiwear.com^
 ||tealjewel.com^
 ||teamstatus.net^
 ||tearfulglass.com^
