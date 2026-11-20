@@ -13926,6 +13926,7 @@
 ##.modCookiesConsent
 ##.modFinancialCookies
 ##.modUt_cookie_privacy_1
+##.mod_cms_accept_tags
 ##.mod_cms_cookie_bar
 ##.mod_cookie-bar
 ##.mod_cookie_bar
@@ -15826,6 +15827,7 @@
 ##cloudflare-app[app="tibrr-cookie-consent"]
 ##cmm-cookie-banner
 ##cmpviews-cookies-accept
+##cms-accept-tags
 ##cn-cookie-agreement
 ##col-cookie-info-banner
 ##comply-consent-manager
@@ -19801,6 +19803,7 @@ content.techgig.com##[class^="gdpr-info"]
 letsdeal.se##[class^="gdpr-overlay"]
 bybit.com##[class^="style_gdpr"]
 underarmour.com##[class^="trustarc_consent"]
+collaboraonline.com##[consent-skip-blocker]
 myworkdayjobs.com##[data-automation-id="legalNotice"]
 id.jobstreet.com##[data-automation="launchBanner"]
 th.jobsdb.com##[data-automation="privacyPolicyBanner"]
